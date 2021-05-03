@@ -25,6 +25,9 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 - Desenvolvimento back-end
 - Programador Laravel
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=adiliogobira)](https://github.com/adiliogobira/github-profile-trophy)
+
+
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/adilio-gobira-neves-reis-64638251/](https://www.linkedin.com/in/adilio-gobira-neves-reis-64638251/))](https://www.linkedin.com/in/adilio-gobira-neves-reis-64638251/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adiliogobira/)](https://www.instagram.com/adiliogobira/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=[https:/www.facebook.com/AdilioGobira](https://www.facebook.com/AdilioGobira))](https://www.facebook.com/AdilioGobira)
  
 
